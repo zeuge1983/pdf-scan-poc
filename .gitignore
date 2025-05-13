@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+
+# Node
+venv/
+
+# macOS
+.DS_Store
+
+# IDEs
+uploaded_docs/
+chroma_db_store/
+.idea/
+*.iml
