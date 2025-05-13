@@ -4,11 +4,19 @@
 # Node
 venv/
 
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env/
+
 # macOS
 .DS_Store
 
 # IDEs
-uploaded_docs/
-chroma_db_store/
 .idea/
 *.iml
+
+uploaded_docs/
+chroma_db_store/
